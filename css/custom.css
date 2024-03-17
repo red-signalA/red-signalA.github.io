@@ -1,9 +1,0 @@
-/* 标题导航栏居中样式 */
-#menus {
-    display: flex;
-    justify-content: center;
-}
-
-#menus .menu-item {
-    margin: 0 10px; /* 调整菜单项之间的间距 */
-}
